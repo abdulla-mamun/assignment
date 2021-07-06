@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    margin: 0;
+    color: rgb(102, 89, 89);
+    
+}
+.flexible{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: ;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width p{
+    font-size: 22px;
+    margin-right: 5%;
+    color: rgb(90, 77, 77);
+    margin-bottom: 10%;
+}
+.orange-color{
+    color: orange;
+}
+.button{
+    padding: 20px 60px;
+    border-radius: 30px 30px;
+    color: white;
+    background-image: linear-gradient(orange, red);
+    text-decoration: none;
+}
+.gray{
+    font-size: 45px;
+    color: gray;
+}
+.background{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.middle{
+    margin: auto;
+    width: 50%;
+}
+.middle h2{
+   text-align: center;
+}
+.middle p{
+    text-align: justify;
+}
+.recipie-section-container{
+    display: flex;
+    margin-left: 10%;
+}
+.recipie-section{
+    width: 30%;
+    margin-right: 20px;
+    border: 10px solid white;
+    box-shadow: 10px 10px 40px gray;
+    padding: 5px 10px;
+    text-align: justify;
+    border-radius: 20px 20px;
+}
+.recipie-section img{
+    width: 80%;
+}
+footer{
+    background-color: black;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+footer h1{
+    text-align: center;
+    font-size: 40px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
